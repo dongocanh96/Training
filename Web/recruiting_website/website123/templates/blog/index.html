@@ -1,0 +1,28 @@
+{% extends 'base.html' %}
+
+{% block header %}
+    <h1><center>Many jobs are waiting for you</center></h1>
+    <style>
+        .pagination li {
+            display: inline-block;
+            padding-left: 0;
+            margin: 20px 0;
+            border-radius: 4px;
+        }
+    </style>
+{% endblock %}
+
+{% block content %}
+    {% for job in jobs %}
+        <header>
+            <div>
+                <p><a href="{{ url_for('blog.detail', number=job['number']) }}">{{ job['title'] }}</a></p>
+            </div>
+         </header>
+    {% endfor %}
+    <ul class="pagination">
+        {% for page in pages %}
+            <li><a href="{{ url_for('blog.job_board', number=page) }}">{{ page }}</a></li>        
+        {% endfor %}
+    </ul>
+{% endblock %}

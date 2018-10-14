@@ -1,0 +1,705 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8016292,
+                    21.0187769
+                ]
+            },
+            "properties": {
+                "name": "Royal Karaoke",
+                "address": "85 Nguy\u1ec5n Khang, Y\u00ean Ho\u00e0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8011692,
+                    21.0196664
+                ]
+            },
+            "properties": {
+                "name": "Dragon Karaoke",
+                "address": "12 Nguy\u1ec5n Khang, Y\u00ean Ho\u00e0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.7868335,
+                    21.0190346
+                ]
+            },
+            "properties": {
+                "name": "Grand Vin de Bordeaux Wine House",
+                "address": "T\u1ea7ng 2-4, 150 Nguy\u1ec5n Ch\u00e1nh, Khu A10 Nam Trung Y\u00ean, Ph\u01b0\u1eddng Y\u00ean Ho\u00e0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.7980354,
+                    21.0176709
+                ]
+            },
+            "properties": {
+                "name": "H\u1ea3i H\u00f3i Beer Hall",
+                "address": "V\u0169 Ph\u1ea1m H\u00e0m, Ng\u00e3 T\u01b0 Trung Y\u00ean"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.7917896,
+                    21.0298027
+                ]
+            },
+            "properties": {
+                "name": "L\u00e2n Beer Qu\u00e1n 2",
+                "address": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8005185,
+                    21.0152939
+                ]
+            },
+            "properties": {
+                "name": "Belgian Beer Club BBC",
+                "address": "S\u1ed1 3, Trung Y\u00ean 3, Trung Ho\u00e0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.785323,
+                    21.030436
+                ]
+            },
+            "properties": {
+                "name": "Novotel Suites Hanoi",
+                "address": "5 Ph\u1ed1 Duy T\u00e2n, D\u1ecbch V\u1ecdng H\u1eadu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.7831733,
+                    21.0139468
+                ]
+            },
+            "properties": {
+                "name": "Minh Ch\u00e2u Brewpup",
+                "address": "M\u1ec5 Tr\u00ec"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.7787513,
+                    21.0211029
+                ]
+            },
+            "properties": {
+                "name": "Karaoke Blue",
+                "address": "M\u1ef9 \u0110\u00ecnh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.7888465,
+                    21.034172
+                ]
+            },
+            "properties": {
+                "name": "Summit Karaoke",
+                "address": "39 Tr\u1ea7n Th\u00e1i T\u00f4ng, D\u1ecbch V\u1ecdng H\u1eadu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.7996215,
+                    21.01086639999999
+                ]
+            },
+            "properties": {
+                "name": "Karaoke iSing",
+                "address": "116 Tr\u1ea7n Duy H\u01b0ng, Trung Ho\u00e0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.7778303,
+                    21.021783
+                ]
+            },
+            "properties": {
+                "name": "Nam D\u01b0\u01a1ng Karaoke Club",
+                "address": "so 10 pho Thien Hien Nam, M\u1ef9 \u0110\u00ecnh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8057679,
+                    21.0166246
+                ]
+            },
+            "properties": {
+                "name": "Cheers Beer",
+                "address": "98 Nguy\u1ec5n Ch\u00ed Thanh, L\u00e1ng Th\u01b0\u1ee3ng"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8002288,
+                    21.007167
+                ]
+            },
+            "properties": {
+                "name": "Th\u1ebf Gi\u1edbi Bia L\u00e3 V\u1ecdng",
+                "address": "169 Ph\u1ed1 Ho\u00e0ng Ng\u00e2n, Trung H\u00f2a Nh\u00e2n Ch\u00ednh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8074858,
+                    21.02336339999999
+                ]
+            },
+            "properties": {
+                "name": "Moonlight Karaoke Club",
+                "address": "54 Ch\u00f9a L\u00e1ng, L\u00e1ng Th\u01b0\u1ee3ng"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8082959,
+                    21.0231612
+                ]
+            },
+            "properties": {
+                "name": "D\u01b0\u01a1ng C\u1ea7m Karaoke",
+                "address": "8 Ch\u00f9a L\u00e1ng, Q.\u0110\u1ed1ng \u0110a, TP.H\u00e0 N\u1ed9i, L\u00e1ng Th\u01b0\u1ee3ng"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.7952688,
+                    21.0367584
+                ]
+            },
+            "properties": {
+                "name": "Phoenix shisha",
+                "address": "Ng\u00f5 86 Ph\u1ed1 Ch\u00f9a H\u00e0, Quan Hoa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8017614,
+                    21.0097771
+                ]
+            },
+            "properties": {
+                "name": "Bar Phan",
+                "address": "Trung Ho\u00e0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8011329,
+                    21.0092622
+                ]
+            },
+            "properties": {
+                "name": "C\u00f4ng Ty TNHH Future Generation",
+                "address": "Ph\u00f2ng 2906, L\u1ea7u 29, T\u00f2a Nh\u00e0 34 T\u1ea7ng, Khu \u0110\u00f4 Th\u1ecb Trung - H\u00f2a Nh\u00e2n Ch\u00ednh, Qu\u1eadn C\u1ea7u Gi\u1ea5y, Trung Ho\u00e0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8041844,
+                    21.0347115
+                ]
+            },
+            "properties": {
+                "name": "Karaoke Las Vegas",
+                "address": "1 Nguy\u1ec5n Kh\u00e1nh To\u00e0n, Quan Hoa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.798372,
+                    21.005927
+                ]
+            },
+            "properties": {
+                "name": "Paula\u2019s Wines",
+                "address": "B1 Mandarin Garden (Behind Grand Plaza hotel, next to Hanoi-Amsterdam School Hanoi City"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8030927,
+                    21.0362539
+                ]
+            },
+            "properties": {
+                "name": "Son Cuoc Pub",
+                "address": "54 Nguy\u1ec5n Kh\u00e1nh To\u00e0n, Quan Hoa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8093704,
+                    21.0156316
+                ]
+            },
+            "properties": {
+                "name": "X\u00edch Beer Club",
+                "address": "68 Nguy\u00ean H\u1ed3ng, L\u00e1ng H\u1ea1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8094291,
+                    21.0156435
+                ]
+            },
+            "properties": {
+                "name": "SBB - Special Belgian Beer",
+                "address": "66 Nguy\u00ean H\u1ed3ng, L\u00e1ng H\u1ea1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.7749205,
+                    21.0292616
+                ]
+            },
+            "properties": {
+                "name": "A99 Karaoke Nine Club",
+                "address": "N01, Th\u00f4n Ph\u00fa M\u1ef9, X\u00e3 M\u1ef9 \u0110\u00ecnh, Huy\u1ec7n T\u1eeb Li\u00eam, M\u1ef9 \u0110\u00ecnh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.7995291,
+                    21.0286698
+                ]
+            },
+            "properties": {
+                "name": "Cafe Film 3D Box",
+                "address": "455 Nguy\u1ec5n Khang, Y\u00ean Ho\u00e0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.7951715,
+                    21.0152144
+                ]
+            },
+            "properties": {
+                "name": "Ph\u1edf G\u00e0 B\u00e0 T\u1ed1",
+                "address": "66 Trung K\u00ednh, Y\u00ean Ho\u00e0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8066691,
+                    21.028232
+                ]
+            },
+            "properties": {
+                "name": "Qu\u00e1n May",
+                "address": "1073 \u0110\u01b0\u1eddng La Th\u00e0nh, L\u00e1ng Th\u01b0\u1ee3ng"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.7930974,
+                    21.0068602
+                ]
+            },
+            "properties": {
+                "name": "Pizza Hut",
+                "address": "Big C Th\u0103ng Long 222 Tr\u1ea7n Duy H\u01b0ng, Cau Giay Ward"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.7876693,
+                    21.0321388
+                ]
+            },
+            "properties": {
+                "name": "Bi\u1ec3n \u0110\u00f4ng Restaurant",
+                "address": "S\u1ed1 2 Ng\u00f5 84 Tr\u1ea7n Th\u00e1i T\u00f4ng, D\u1ecbch V\u1ecdng H\u1eadu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.7883047,
+                    21.0321654
+                ]
+            },
+            "properties": {
+                "name": "Kichi - Kichi Restaurant",
+                "address": "105 Tr\u1ea7n Th\u00e1i T\u00f4ng, D\u1ecbch V\u1ecdng H\u1eadu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8015874,
+                    21.012795
+                ]
+            },
+            "properties": {
+                "name": "Nh\u00e0 h\u00e0ng Bia Ti\u1ec7p Tr\u00fac Vi\u00ean",
+                "address": "S\u1ed1 40 \u0111\u01b0\u1eddng Tr\u1ea7n Duy H\u01b0ng, ph\u01b0\u1eddng Trung H\u00f2a, Trung Ho\u00e0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.7883942,
+                    21.0328467
+                ]
+            },
+            "properties": {
+                "name": "GoGi House Tr\u1ea7n Th\u00e1i T\u00f4ng",
+                "address": "103D5A, Tr\u1ea7n Th\u00e1i T\u00f4ng, C\u1ea7u Gi\u1ea5y"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.7924524,
+                    21.0073945
+                ]
+            },
+            "properties": {
+                "name": "SumoBBQ BigC",
+                "address": "Big C, T\u1ea7ng 1, 222 Tr\u1ea7n Duy H\u01b0ng, Trung Ho\u00e0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8015052,
+                    21.0190442
+                ]
+            },
+            "properties": {
+                "name": "M\u01a1 Hoa Restaurant",
+                "address": "89 Nguy\u1ec5n Khang, Y\u00ean Ho\u00e0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.7832789,
+                    21.0314034
+                ]
+            },
+            "properties": {
+                "name": "N\u00fai T\u1ea3n Restaurant",
+                "address": "78, Ph\u1ed1 Duy T\u00e2n, D\u1ecbch V\u1ecdng H\u1eadu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8040644,
+                    21.0152033
+                ]
+            },
+            "properties": {
+                "name": "Kim T\u1eedu Qu\u00e1n",
+                "address": "9 Nguy\u1ec5n Khang, Trung Ho\u00e0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.7884623,
+                    21.0325888
+                ]
+            },
+            "properties": {
+                "name": "Nh\u00e0 h\u00e0ng Ng\u1ecdc Trai",
+                "address": "76 Tr\u1ea7n Th\u00e1i T\u00f4ng, D\u1ecbch V\u1ecdng H\u1eadu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8030283,
+                    21.0166681
+                ]
+            },
+            "properties": {
+                "name": "Nh\u00e0 H\u00e0ng S\u00f3ng Bi\u1ec3n",
+                "address": "47 Nguy\u1ec5n Khang, Trung Ho\u00e0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8000457,
+                    21.0160328
+                ]
+            },
+            "properties": {
+                "name": "KFC Restaurant Trung H\u00f2a",
+                "address": "S\u1ed1 1, L\u00f4 13B, Khu \u0110TM Trung Y\u00ean, Trung H\u00f2a, Trung Ho\u00e0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.7934391,
+                    21.0358265
+                ]
+            },
+            "properties": {
+                "name": "Dong Son Drum Restaurant",
+                "address": "1 Tr\u1ea7n \u0110\u0103ng Ninh, D\u1ecbch V\u1ecdng"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8007709,
+                    21.0199609
+                ]
+            },
+            "properties": {
+                "name": "L\u1ea9u N\u1ea5m Gia Kh\u00e1nh",
+                "address": "67 V\u0169 Ph\u1ea1m H\u00e0m, Y\u00ean Ho\u00e0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.7780583,
+                    21.0153649
+                ]
+            },
+            "properties": {
+                "name": "Pizza Hoa \u00dd",
+                "address": "45 M\u1ec5 Tr\u00ec, M\u1ef9 \u0110\u00ecnh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.7914452,
+                    21.0361273
+                ]
+            },
+            "properties": {
+                "name": "KFC C\u1ea7u Gi\u1ea5y",
+                "address": "372-374 \u0110\u01b0\u1eddng C\u1ea7u Gi\u1ea5y, D\u1ecbch V\u1ecdng"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.7942035,
+                    21.0099732
+                ]
+            },
+            "properties": {
+                "name": "Ph\u1edf G\u00e0 Huy Kh\u00e1nh",
+                "address": "Nguy\u1ec5n Ch\u00e1nh, Trung Ho\u00e0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.7900528,
+                    21.0316346
+                ]
+            },
+            "properties": {
+                "name": "C\u00f4ng ty c\u1ed5 ph\u1ea7n DEVYT",
+                "address": "55 Tr\u01b0\u01a1ng C\u00f4ng Giai, D\u1ecbch V\u1ecdng"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.7990553,
+                    21.0168722
+                ]
+            },
+            "properties": {
+                "name": "Nh\u00e0 H\u00e0ng Nh\u1eadt H\u00e0n Sura Sushi",
+                "address": "S\u1ed1 13, l\u00f4 2C, Ph\u1ed1 Trung H\u00f2a, Y\u00ean Ho\u00e0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.7931441,
+                    21.0186452
+                ]
+            },
+            "properties": {
+                "name": "C\u00f4 T\u00f4 Restaurant Chelsea",
+                "address": "T\u1ea7ng 1, T\u00f2a Nh\u00e0 Chelsea Park, 116 Trung K\u00ednh, C\u1ea7u Gi\u1ea5y"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.7999813,
+                    21.0106474
+                ]
+            },
+            "properties": {
+                "name": "Sontinh Camp Office",
+                "address": "Ph\u00f2ng 305, 109 Tr\u1ea7n Duy H\u01b0ng"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8014369,
+                    21.0229182
+                ]
+            },
+            "properties": {
+                "name": "Qu\u00e1n C\u01a1m - Ph\u1edf 134",
+                "address": "134 Ch\u00f9a L\u00e1ng"
+            }
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{% extends 'base.html' %}
+
+{% block title %}
+    {{ infos['title'] }}
+{% endblock %}
+
+{% block header %}
+    {{ infos['title'] }}
+{% endblock %}
+
+{% block content %}
+    <body>
+        {% autoescape false %}
+        <p>{{ infos['detail']|replace("\r\n", "<br/>") }}</p>
+        {% endautoescape %}
+        <p>{{ infos['state'] }}</p>
+        <p>{{ infos['post_date'] }}</p>
+    </body>
+{% endblock %}

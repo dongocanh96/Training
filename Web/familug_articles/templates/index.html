@@ -1,0 +1,27 @@
+<html>
+    <head>
+        <title>Familug articles</title>
+    </head>
+    <body>
+        <table class="u-full-width">
+            <thead>
+                <tr>
+                    <th>Python</th>
+                    <th>Command</th>
+                    <th>Sysadmin</th>
+                    <th>Lastest</th>
+                </tr>
+            </thead>
+            <tbody>
+            {% for item in articles %}
+                <tr>
+                    <td><a href="{{ item.Python[1] }}">{{ item.Python[0] }}</a></td>
+                    <td><a href="{{ item.Command[1] }}">{{ item.Command[0] }}</a></td>
+                    <td><a href="{{ item.Sysadmin[1] }}">{{ item.Sysadmin[0] }}</a></td>
+                    <td><a href="{{ item.Lastest[1] }}">{{ item.Lastest[0] }}</a></td>
+                </tr>
+            {% endfor %}
+            </tbody>
+        </table>
+    </body>
+</html>
